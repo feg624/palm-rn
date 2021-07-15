@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "palm-rn",
+    "slug": "palm-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "palm-rn"
+}
