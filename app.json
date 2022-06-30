@@ -3,10 +3,15 @@
     "name": "palm-rn",
     "slug": "palm-rn",
     "version": "1.0.0",
-    "sdkVersion": "42.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.fegsoft.palm"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fegsoft.palm"
+    }
   },
   "name": "palm-rn"
 }
